@@ -5,6 +5,8 @@ from flask_sqlalchemy import SQLAlchemy
 # Flask app initialization
 def create_app():
     pass
+    
+#komentarij vidno?
 
 # Database model
 class Book():
